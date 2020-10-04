@@ -1,10 +1,11 @@
 ---
 layout: default
 ---
+show_downloads : ["true"] 
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+[Visit Website](www.ekovegeance.xyz).
 
 There should be whitespace between paragraphs.
 
