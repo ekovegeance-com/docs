@@ -1,2 +1,0 @@
-# ComputerScience
-Computer Science Doc
