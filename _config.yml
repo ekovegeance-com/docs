@@ -1,1 +1,5 @@
 theme: jekyll-theme-minimal
+gem "github-pages", group: :jekyll_plugins
+title: [Ekosaputra | Doc]
+logo: [https://github.com/ekovegeance/ekovegeance.github.io/blob/master/img/logo.png]
+show_downloads: ["true"]
