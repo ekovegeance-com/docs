@@ -6,17 +6,11 @@ Computer Science Doc
 - Download the script:
 
 ```
-$ git clone https://github.com/ekovegeance/ComputerScience.gitt
+$ git clone https://github.com/ekovegeance/ComputerScience.git
 ```
 
 - Make it executable:
 
 ```
-$ chmod +x ./ddos
-```
-
-- Run it:
-
-```
-$ ./ddos
+$ cd /ComputerScience
 ```
