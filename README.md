@@ -1,5 +1,6 @@
 # ComputerScience
-Computer Science Doc
+This is my documentation during my time as a computer science faculty student at Bina Darma University
+
 ## How to use?
 
 
