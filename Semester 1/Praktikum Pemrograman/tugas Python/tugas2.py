@@ -1,5 +1,6 @@
 #Banner aku
-from termcolor import colored
+import sys
+from termcolor import colored, cprint
 print(colored('[---]  UNIVERSITAS BINA DARMA PALEMBANG    [---]', 'blue'))
 print(colored('[---]', 'blue'), colored('   TUGAS PRAKTIKUM PEMROGRAMAN      ', 'green'), colored('[---]', 'blue'))
 print(colored('[---]', 'blue'), colored('     Nama : Eko Saputra             ', 'red'), colored('[---]', 'blue'))
