@@ -1,4 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Docs Ekosaputra](README.md)
+* [? FAQ](faq.md)
+* [Untitled](untitled.md)
 
