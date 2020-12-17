@@ -2,7 +2,7 @@
 description: 'this is my documentation during college, at Bina Darma university'
 ---
 
-# Docs Ekosaputra
+# Docs University
 
 ![www.ekovegeance.xyz](.gitbook/assets/developer.png)
 
