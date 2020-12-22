@@ -1,5 +1,5 @@
 # Table of contents
 
-* [Docs Ekosaputra](README.md)
+* [Docs University](README.md)
 * [? FAQ](faq.md)
 
