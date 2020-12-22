@@ -1,1 +1,6 @@
-theme: jekyll-theme-slate
+title: Computer Science
+logo: /assets/img/developer.png
+description: Faculty of Computer Science, Bina Darma University
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-minimal
