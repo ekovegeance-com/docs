@@ -1,0 +1,80 @@
+<mxfile host="app.diagrams.net" modified="2021-01-12T05:05:25.482Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="we729wiHshfwN_CBFRBU" version="14.1.9" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="868" dy="458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WBTlr6QFvvqsDIp4eObJ-10" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WBTlr6QFvvqsDIp4eObJ-5" target="WBTlr6QFvvqsDIp4eObJ-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WBTlr6QFvvqsDIp4eObJ-5" value="Mulai" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;rounded=0;sketch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="314" y="90" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WBTlr6QFvvqsDIp4eObJ-12" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WBTlr6QFvvqsDIp4eObJ-8" target="WBTlr6QFvvqsDIp4eObJ-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WBTlr6QFvvqsDIp4eObJ-8" value="Integral bilangan" style="shape=internalStorage;whiteSpace=wrap;html=1;dx=15;dy=15;rounded=1;arcSize=8;strokeWidth=2;sketch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="303.13" y="190" width="121.75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WBTlr6QFvvqsDIp4eObJ-14" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WBTlr6QFvvqsDIp4eObJ-11" target="WBTlr6QFvvqsDIp4eObJ-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WBTlr6QFvvqsDIp4eObJ-11" value="Input bilangan / angka" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;strokeWidth=2;arcSize=8;sketch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="290.57" y="280" width="146.87" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WBTlr6QFvvqsDIp4eObJ-16" value="" style="edgeStyle=none;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WBTlr6QFvvqsDIp4eObJ-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="470" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="500" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WBTlr6QFvvqsDIp4eObJ-13" value="bilangan mod 2 == 0" style="rhombus;whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;arcSize=0;sketch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="284" y="380" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WBTlr6QFvvqsDIp4eObJ-17" value="output bilangan, &#39;adalah bilangan genap" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;strokeWidth=2;arcSize=8;sketch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="420" y="470" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WBTlr6QFvvqsDIp4eObJ-18" value="True" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="450" y="400" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WBTlr6QFvvqsDIp4eObJ-20" value="" style="edgeStyle=none;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="420" as="sourcePoint" />
+            <mxPoint x="223" y="470" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="223" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WBTlr6QFvvqsDIp4eObJ-26" value="" style="edgeStyle=none;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.441;exitY=1.017;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WBTlr6QFvvqsDIp4eObJ-21" target="WBTlr6QFvvqsDIp4eObJ-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="344" y="600" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="224" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WBTlr6QFvvqsDIp4eObJ-21" value="output bilangan, &#39;adalah bilangan ganjil" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;strokeWidth=2;arcSize=8;sketch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="149" y="470" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WBTlr6QFvvqsDIp4eObJ-22" value="False" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="227" y="400" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WBTlr6QFvvqsDIp4eObJ-27" value="" style="edgeStyle=none;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.441;exitY=1.017;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="WBTlr6QFvvqsDIp4eObJ-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="530" as="sourcePoint" />
+            <mxPoint x="420" y="600" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="500.03" y="598.98" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WBTlr6QFvvqsDIp4eObJ-28" value="Selesai" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;rounded=0;sketch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="314.01" y="570" width="100" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
