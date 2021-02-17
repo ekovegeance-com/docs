@@ -4,8 +4,6 @@ description: 'this is my documentation during college, at Bina Darma university'
 
 # Docs University
 
-![www.ekovegeance.xyz](.gitbook/assets/developer.png)
-
 ## How to ?
 
 This documentation is open source, so you can contribute to and download this package
@@ -54,5 +52,4 @@ gh repo clone ekovegeance/ComputerScience
 {% hint style="info" %}
 _**Note: modifications, changes, or alterations to this sourcecode is acceptable, however,any public releases utilizing this code must be approved by writen this tool \( evsystem \).**_
 {% endhint %}
-
 
