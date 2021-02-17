@@ -23,6 +23,18 @@ This documentation is open source, so you can contribute to and download this pa
 | 7 | Bahasa Inggris 1 | 3 | A | 4 | 12 | Lulus |
 | - | Total | 18 |  |  | 78 |  |
 
+#### Semester 2 \( Update 15 Feb 2021 \)
+
+| No | Mata Kuliah | Kredit | NH | NA | KNA | Status |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1 | Pengantar Multimedia | 3 |  |  |  |  |
+| 2 | Jaringan Komputer 1 | 3 |  |  |  |  |
+| 3 | Struktur data dan Algoritma lanjutan | 3 |  |  |  |  |
+| 4 | Matematika Diskrit | 3 |  |  |  |  |
+| 5 | Praktikum Struktur Data dan Algoritma Lanjutan\* | 3 |  |  |  |  |
+| 6 | Sistem Operasi | 3 |  |  |  |  |
+| - | Jumlah | 18 |  |  |  |  |
+
 #### How to Downloads
 
 Using git on Linux / Windows / MacOS
