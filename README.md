@@ -2,9 +2,9 @@
 description: 'this is my documentation during college, at Bina Darma university'
 ---
 
-# Docs University
+# Introduction
 
-![www.ekovegeance.xyz](.gitbook/assets/developer.png)
+![](.gitbook/assets/undraw_programming_2svr.png)
 
 ## How to ?
 
@@ -54,5 +54,4 @@ gh repo clone ekovegeance/ComputerScience
 {% hint style="info" %}
 _**Note: modifications, changes, or alterations to this sourcecode is acceptable, however,any public releases utilizing this code must be approved by writen this tool \( evsystem \).**_
 {% endhint %}
-
 
