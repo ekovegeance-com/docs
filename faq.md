@@ -11,7 +11,7 @@ Yes, after a few months we finally found the answer. Sadly, Mike is on vacations
 How to reach me:
 
 * Website : [www.ekovegeance.com](http://www.ekovegeance.com/)
-* Email : [ev@ekovegeance.com](mailto:ev@ekovegeance.com)
+* Email : [me@ekovegeance.com](mailto:ev@ekovegeance.com)
 * Dev : [https://dev.to/ekovegeance](https://dev.to/ekovegeance)
 * Medium : [https://ekovegeance.medium.com](https://ekovegeance.medium.com/)
 * Twitter : [https://twitter.com/ekovegeance7](https://twitter.com/ekovegeance7)
