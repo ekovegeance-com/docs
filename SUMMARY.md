@@ -2,13 +2,7 @@
 
 * [Introduction](README.md)
 * [Docs University](university.md)
-* [Ebook](ebook/README.md)
-  * [Linux](ebook/linux.md)
-  * [Programming](ebook/prgramming.md)
-  * [Hacking](ebook/hacking.md)
-* [Flowchart](flowchart/README.md)
-  * [Untitled](flowchart/untitled-1.md)
-  * [Untitled](flowchart/untitled.md)
-* [? FAQ](faq.md)
+* [Ebook](http://s.id/perpustakaanxentaos)
 * [Video](https://www.youtube.com/channel/UCb9NzcR2WHsdeVFGnDeRvDA)
+* [? FAQ](faq.md)
 
