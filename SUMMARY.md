@@ -10,4 +10,5 @@
   * [Untitled](flowchart/untitled-1.md)
   * [Untitled](flowchart/untitled.md)
 * [? FAQ](faq.md)
+* [Video](https://www.youtube.com/channel/UCb9NzcR2WHsdeVFGnDeRvDA)
 
