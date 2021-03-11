@@ -40,13 +40,13 @@ This documentation is open source, so you can contribute to and download this pa
 Using git on Linux / Windows / MacOS
 
 ```text
-git clone https://github.com/ekovegeance/ComputerScience.git
+git clone https://github.com/ekovegeance/docs.git
 ```
 
 Using Github CLI
 
 ```text
-gh repo clone ekovegeance/ComputerScience
+gh repo clone ekovegeance/docs
 ```
 
 {% hint style="info" %}
