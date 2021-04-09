@@ -62,4 +62,4 @@ class Stack:
                 pilih="n"  
 if __name__ == "__main__":
     s=Stack()
-    s.mainmenu()
+    s.system
