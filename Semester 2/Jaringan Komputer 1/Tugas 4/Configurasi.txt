@@ -13,6 +13,10 @@ Cheatsheet ios cli Switch
     login (perintah untuk login)
     enable secret class (untuk mengatur secret dengan password class)
     banner motd (utk membuat banner/sepanduk)
+    line vty 0 15 (masuk ke vty)
+    password vty nya
+    login
+    service password-encryption ( untuk Encrypt all clear text passwords.)
     
 
     [INI SETTING  Vlan1 = IP dan subnet]

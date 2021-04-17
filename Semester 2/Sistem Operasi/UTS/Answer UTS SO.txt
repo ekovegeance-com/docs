@@ -1,0 +1,29 @@
+Salah satu kriteria CPU adalah troughput yang merupakan waktu yang dibutuhkan oleh suatu proses dari minta dilayani hingga ada respon pertama yang menanggapi permintaan tersebut.
+(false)
+
+Salah satu tugas dari Analis dan programmer adalah mengevaluasi proses agar efisien dalam waktu dan  efisiensi dalam harga.
+(True)
+
+Konsep dasar dari algoritma Round-Robin Scheduling adalah dengan menggunakan time-sharing.
+(True)
+
+Gambar di atas menunjukkan waktu turnaround berbeda pada waktu quantum yang berbeda.
+(True)
+
+Penjadwalan CPU menyangkut penentuan proses-proses yang ada dalam ready queue yang akan dialokasikan pada CPU.
+(True)
+
+Waiting time meyakinkan bahwa tiap-tiap proses akan mendapatkan pembagian waktu penggunaan CPU secara terbuka (fair). sedangkan Fairness merupakan waktu yang diperlukan oleh suatu proses untuk menunggu di ready queue.
+(False)
+
+Gambaran dan karakteristik  produksi keseluruhan atau pelayanan yang  berhubungan dengan pemenuhan kebutuhan merupakan definisi kinerja menurut Standar IEEE (IEEE Std 729-19830.
+(False)
+
+Indeks performance dievaluasi dengan berbagai cara  yaitu dapat diukur, dihitung dan dianalisa.
+(False)
+
+Procurement merupakan seluruh masalah kinerja yang timbul pada saat suatu system sedang bekerja.
+(False)
+
+Pada Multiprogrammed Interactive References System (MIRS), user dapat memprogram di dalam ruang alamat memori secara virtual  yang berbeda dengan sistem memori aktual. Sedangkan pada Multiprogrammed  Interactive  Virtual  Memory  References  System  (MIVRS),interaktif terminal dimana user dapat berhubungan (converse) dengan  sistem, (Interactive Transaction).
+(False)

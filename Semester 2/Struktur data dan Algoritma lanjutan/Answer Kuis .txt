@@ -1,0 +1,65 @@
+1. Data adalah
+    b. Catatan atas kumpulah fakta
+2. Diketahui
+    String S1 = ’MULTIMEDIA’
+         S2 = ’K O M P U T E R’
+    hasil dari operasi LENGTH(Concat(S1,S2)) adalah
+    d. 25
+
+3. Diketahui
+    String S1 = ’MULTIMEDIA’
+         S2 = ’K O M P U T E R’
+    hasil dari operasi CONCAT(Substring(S1,6,3), Delete(S2,7,9)) adalah 
+    c. "K O M MED" 
+
+4. Prinsip/sifat dari Stack adalah
+    b. LIFO 
+
+5. Banyaknya elemen pada stack disebut
+    b. NOEL 
+
+6. Operator POP yang digunakan pada operasi stack adalah
+    c. Perintah untuk penghapusan elemen
+
+7. Operasi untuk menambahkan elemen pada stack disebut
+    a. Push 
+
+8. Operasi untuk menciptakan sebuah stack baru disebut
+    c. Create 
+
+9. Proses penghapusan dan pemasukan elemen padavstack dapat dilakukan
+    b. Pada posisi akhir 
+
+10. Operasi pada STACK, kecuali
+    b. INPUT 
+
+11. Jika diketahui stack S = [S1, S1,… St]
+    maka puncak atau Top dari stack/TOP(S) adalah
+    d. St
+
+12. Dibawah ini adalah elemen data, kecuali :
+    d. Filling
+
+13. NOEL(CREATE(S)) adalah
+    b. 0 
+
+14. Array adalah
+    d. Kumpulan data bertipe sama yang menggunakan nama yang sama 
+
+15. Antara satu variabel dengan variabel lain dalam array akan dibedakan berdasarkan
+    a. Kurung siku Correct
+
+16. Linier search adalah pencarian ke data Array yang dilakukan secara
+    a. Berurutan
+
+17. Syarat pencarian menggunakan metode Binary search adalah data harus terurut secara
+    a. Benar 
+
+18. Banyaknya jumlah pertukaran pada metode Bubble Sort menentukan
+    a. Lamanya proses pengurutan Correct
+
+19. Sebuah variabel array 1 dimensi dengan Batas Bawah 1 dan Batas Atas 321, berapakah panjang array tersebut
+    b. 321 
+
+20. Sebuah Array 1 Dimensi dengan batas bawah -100 dan batas atas 100, maka panjang Array tersebut adalah
+    b. 201 Correct

@@ -1,0 +1,33 @@
+Konfigurasi Switch(dokumentasi ada di docs.ekovegeance.com)
+Cheatsheet ios cli Switch
+    [PART1]-[STEP 1]
+
+    enable (Untuk akses ke root/#)
+    configure terminal (utk mengakses terminal configurasi)
+    hostname S1 (utk mengubah nama saklar)
+    
+    [PART1]-[STEP 2 dan STEP 3]
+
+    line console 0 (Masuk ke Konfigurasi untuk mengatur password)
+    password cisco (password nya)
+    login (perintah untuk login)
+    enable secret class (untuk mengatur secret dengan password class)
+    banner motd (utk membuat banner/sepanduk)
+    line vty 0 15 (masuk ke vty)
+    password vty nya
+    login
+    service password-encryption ( untuk Encrypt all clear text passwords.)
+    
+
+    [INI SETTING  Vlan1 = IP dan subnet]
+
+    int vlan1 (utk masuk ke interface lan)
+    ip address 192.168.1.253 255.255.255.0 (masukan IP dan subnet)
+    no shutdown
+
+    [PART1]-[STEP 4] Menyimpan Konfigurasi
+    copy run st (Menyimpan Konfigurasi)
+
+
+
+
