@@ -21,6 +21,7 @@ menu:
     		print('\n2. Descending')
     		data = tuple(input('Masukan data yang belum terurut : '))
     		data_descending = sorted(data, reverse = True)
+			print ("Data yang belum terurut :",data)
     		print("Data yang sudah terurut= ",data_descending)
     		d = input('try again(y/n)? ')
     		if d=='y' or d=='Y':
