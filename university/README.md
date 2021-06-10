@@ -49,6 +49,12 @@ Using Github CLI
 gh repo clone ekovegeance/docs
 ```
 
+#### For up to date
+
+```text
+git pull 
+```
+
 {% hint style="info" %}
 _**Note: modifications, changes, or alterations to this sourcecode is acceptable, however,any public releases utilizing this code must be approved by writen this tool \( evsystem \).**_
 {% endhint %}
