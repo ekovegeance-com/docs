@@ -39,16 +39,22 @@ This documentation is open source, so you can contribute to and download this pa
 
 #### How to Downloads
 
-Using git on Linux / Windows / MacOS
+#### Using git on Linux / Windows / MacOS
 
 ```text
 git clone https://github.com/ekovegeance/docs.git
 ```
 
-Using Github CLI
+#### Using Github CLI
 
 ```text
 gh repo clone ekovegeance/docs
+```
+
+#### For up to date
+
+```text
+git pull
 ```
 
 {% hint style="info" %}
