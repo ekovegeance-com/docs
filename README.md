@@ -10,7 +10,7 @@ description: 'this is my documentation during college, at Bina Darma university'
 
 This documentation is open source, so you can contribute to and download this package
 
-#### Lates Version 2 
+#### Version 2 
 
 ### This documentation is updated regularly
 
