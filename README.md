@@ -42,7 +42,7 @@ Thanks to Contributors
 | bagassatria45 | Bagas Satria | Main Contrib |
 | ImgBotApp | Imgbot | Bot Image |
 
-{% hint style="info" %}
-_**Note: modifications, changes, or alterations to this sourcecode is acceptable, however,any public releases utilizing this code must be approved by writen this tool \( evsystem \).**_
+{% hint style="warning" %}
+_**Note: modifications, changes, or alterations to this sourcecode is acceptable, however,any public releases utilizing this code must be approved by writen this tool \( Eko Saputra \| ekovegeance \).**_
 {% endhint %}
 
