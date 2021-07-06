@@ -34,6 +34,14 @@ gh repo clone ekovegeance/docs
 git pull
 ```
 
+Thanks to Contributors
+
+| username | Name | Role |
+| :--- | :--- | :--- |
+| faizH3 | Faiz Hidayat | Main Contrib |
+| bagassatria45 | Bagas Satria | Main Contrib |
+| ImgBotApp | Imgbot | Bot Image |
+
 {% hint style="info" %}
 _**Note: modifications, changes, or alterations to this sourcecode is acceptable, however,any public releases utilizing this code must be approved by writen this tool \( evsystem \).**_
 {% endhint %}
