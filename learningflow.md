@@ -66,5 +66,9 @@ Group Telegram, facebook, etc.
 
 * [PHP - Indonesian Programmers \( Facebook \)](https://web.facebook.com/groups/191445930907235)
 
+#### MySQL
 
+Ebook & Website
+
+* [MySQL Tutorial for Beginner to Advanced](https://umardanny.com/tutorial-mysql-untuk-pemula-hingga-mahir-ebook-download-pdf/)
 
