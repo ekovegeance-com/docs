@@ -49,3 +49,22 @@ Videos
 * [Advanced javascript](https://youtube.com/playlist?list=PLFIM0718LjIUGpY8wmE41W7rTJo_3Y46-)
 * [Javasript and DOM](https://youtube.com/playlist?list=PLFIM0718LjIWB3YRoQbQh82ZewAGtE2-3)
 
+#### PHP
+
+Ebook & Website
+
+* [PHP Programming Tutorial for Beginners](https://www.petanikode.com/tutorial/php)
+* [PHP Ebook Tutorial](http://www.ilmuwebsite.com/ebook-php-free-download)
+* [PHP: The Right Way Bahasa Indonesia](http://id.phptherightway.com/#site-header/)
+* 
+Videos
+
+* [Learn PHP for beginners](https://youtube.com/playlist?list=PLFIM0718LjIUqXfmEIBE3-uzERZPh3vp6)
+* [Basic OPP on PHP](https://youtube.com/playlist?list=PLFIM0718LjIWvxxll-6wLXrC_16h_Bl_p)
+
+Group Telegram, facebook, etc.
+
+* [PHP - Indonesian Programmers \( Facebook \)](https://web.facebook.com/groups/191445930907235)
+
+
+
