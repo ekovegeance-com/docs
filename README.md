@@ -38,9 +38,9 @@ Thanks to Contributors
 
 | username | Name | Role |
 | :--- | :--- | :--- |
-| faizH3 | Faiz Hidayat | Main Contrib |
-| bagassatria45 | Bagas Satria | Main Contrib |
-| ImgBotApp | Imgbot | Bot Image |
+| [faizH3](https://github.com/faizH3) | Faiz Hidayat | Main Contrib |
+| [bagassatria45](https://github.com/bagassatria45) | Bagas Satria | Main Contrib |
+| [ImgBotApp](https://github.com/ImgBotApp) | Imgbot | Bot Image |
 
 > _**Note: modifications, changes, or alterations to this sourcecode is acceptable, however,any public releases utilizing this code must be approved by writen this tool \( Eko Saputra \| ekovegeance \).**_
 
