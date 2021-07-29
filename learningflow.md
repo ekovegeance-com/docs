@@ -1,7 +1,7 @@
 ---
 description: >-
   Learning Flow to become great Programmer ( Indonesian Lenguage) , Free for
-  Contribution
+  Contribution | Always updated following technological developments
 ---
 
 # Learning Flow
@@ -76,4 +76,19 @@ Videos
 
 * [MySQL database tutorial \| MariaDB](https://youtube.com/playlist?list=PL2O3HdJI4voGs6CiEUPXwt1fhLLqu30E_)
 * [Learnng MySQL \| MariaDB](https://youtube.com/playlist?list=PLF82-I80PwDN7KSzsJOmd8mwHYe4aAqfF)
+
+### Daily Dev
+
+Website & Tools
+
+* [GitHub](https://github.com/)
+
+Podcast
+
+* [Ceritanya Developer Podcast](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8zMDM0OGQ0L3BvZGNhc3QvcnNz?sa=X&ved=2ahUKEwj70uTl3YfyAhWGh_0HHaOACCgQ9sEGegQIARAE)
+* [Belajar Bahasa Inggris \(Listening Skills\)](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy9kYWEzZTY0L3BvZGNhc3QvcnNz?sa=X&ved=0CAoQ9sEGahcKEwjgqouq3ofyAhUAAAAAHQAAAAAQDw)
+
+
+
+to contribute to this document, you can send an email to me@ekovegeance.com
 
