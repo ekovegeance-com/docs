@@ -90,5 +90,7 @@ Podcast
 
 
 
-to contribute to this document, you can send an email to me@ekovegeance.com
+{% hint style="info" %}
+to contribute to this document, you can send an email to [me@ekovegeance.com](mailto:me@ekovegeance.com)
+{% endhint %}
 
