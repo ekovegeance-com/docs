@@ -72,3 +72,8 @@ Ebook & Website
 
 * [MySQL Tutorial for Beginner to Advanced](https://umardanny.com/tutorial-mysql-untuk-pemula-hingga-mahir-ebook-download-pdf/)
 
+Videos
+
+* [MySQL database tutorial \| MariaDB](https://youtube.com/playlist?list=PL2O3HdJI4voGs6CiEUPXwt1fhLLqu30E_)
+* [Learnng MySQL \| MariaDB](https://youtube.com/playlist?list=PLF82-I80PwDN7KSzsJOmd8mwHYe4aAqfF)
+
