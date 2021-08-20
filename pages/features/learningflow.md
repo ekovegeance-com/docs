@@ -31,8 +31,9 @@ Videos
 * [Python Django 1.11 LTS](https://youtube.com/playlist?list=PLZS-MHyEIRo6p_RwsWntxMO5QAqIHHHld)
 * [Numpy (Python Data Analyst)](https://youtube.com/playlist?list=PLZS-MHyEIRo6V6C2PHEx2Lt0hWIB_cL58)
 * [Python Matplotlib](https://youtube.com/playlist?list=PLZS-MHyEIRo5UL5A8YqUO-6hy-aDfQWW-)
-Group Telegram, facebook, etc.
 
+
+Group Telegram, facebook, etc.
 * [Python - Indonesian Programmers \( Facebook \)](https://web.facebook.com/groups/1547113062220560)
 * [Python Programmer Indonesia \( Facebook\)](https://web.facebook.com/groups/445344566423339)
 * [Python Indonesia \( Telegram \)](https://t.me/pythonID)
