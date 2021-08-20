@@ -25,9 +25,12 @@ Ebook & Website
 * [Workshop Python](http://sakti.github.io/python101/) 
 
 Videos
-
 * [Basic Python](https://youtube.com/playlist?list=PLZS-MHyEIRo59lUBwU-XHH7Ymmb04ffOY)
-
+* [Basic Python (Remake)](https://youtube.com/playlist?list=PLZS-MHyEIRo7cgStrKAMhgnOT66z2qKz1)
+* [Python 3.x (OOP)](https://youtube.com/playlist?list=PLZS-MHyEIRo7ab0-EveSvf4CLdyOECMm0)
+* [Python Django 1.11 LTS](https://youtube.com/playlist?list=PLZS-MHyEIRo6p_RwsWntxMO5QAqIHHHld)
+* [Numpy (Python Data Analyst)](https://youtube.com/playlist?list=PLZS-MHyEIRo6V6C2PHEx2Lt0hWIB_cL58)
+* [Python Matplotlib](https://youtube.com/playlist?list=PLZS-MHyEIRo5UL5A8YqUO-6hy-aDfQWW-)
 Group Telegram, facebook, etc.
 
 * [Python - Indonesian Programmers \( Facebook \)](https://web.facebook.com/groups/1547113062220560)
@@ -78,8 +81,12 @@ Videos
 ## Daily Dev
 
 Website & Tools
+* [GitHub (Repository tools)](https://github.com/)
+* [Vercel (free web hosting)](https://vercel.com/)
+* [Netlify (free web hosting)](https://www.netlify.com/)
+* [GatsbyJS Cloud (free web hosting)](https://gatsbyjs.org/)
+* [Drovio (free remote tools)](https://www.drovio.com/)
 
-* [GitHub](https://github.com/)
 
 Podcast
 
