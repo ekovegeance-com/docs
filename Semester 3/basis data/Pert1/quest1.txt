@@ -1,0 +1,3 @@
+Basis data merupakan metode agar mudah dalam melakukan pengelolaan data ( angka, karakter atau simbol ) secara terstruktur dan terrealisasi.
+
+Dalam perushaan, instansi atau pemerintahan begitu banyak data yang akan di kelola jika kita menggunan cara manual sangat begitu rumit, maka dari itu sangatlah penting kita menggunakan database agar mempermudah kita dalam mengelola data CRUD, sehingga terhindar dari ketidak konsistenan data.
