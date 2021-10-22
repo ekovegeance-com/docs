@@ -1,0 +1,234 @@
+<!-- Membuat kalkulator menggunakan javascript  -->
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- Bootstrap CSS -->
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3"
+      crossorigin="anonymous"
+    />
+    <title>kalkulator | Tugas 3 Eko Saputra</title>
+  </head>
+  <body>
+    <h1 class="text-center">Tugas 3</h1>
+    <p class="text-center">KALKULATOR</p>
+    <!--start kolom hasil dan clear -->
+    <section>
+      <div class="contianer-fluid">
+        <div class="row g-5 justify-content-center bg-dark">
+          <div class="col-sm-3">
+            <input
+              class="form-control"
+              type="text"
+              name="hasil"
+              id="hasil"
+              value=""
+              placeholder="Hasil"
+              readonly
+            />
+          </div>
+          <div class="col-sm-1">
+            <input
+              class="btn btn-danger btn-lg"
+              type="button"
+              value="C"
+              onclick="clearScreen()"
+              id="clear"
+            />
+          </div>
+        </div>
+      </div>
+    </section>
+    <!--end kolom hasil dan clear -->
+
+    <div class="container-fluid">
+      <!--start kolom angka 1,2,3,+ -->
+      <div class="row pt-1 justify-content-center g-5">
+        <div class="col-1">
+          <input
+            class="btn btn btn-secondary btn-lg"
+            type="button"
+            value="1"
+            onclick="layar(1)"
+            id="satu"
+          />
+        </div>
+        <div class="col-1">
+          <input
+            class="btn btn-secondary btn-lg"
+            type="button"
+            value="2"
+            onclick="layar(2)"
+            id="dua"
+          />
+        </div>
+        <div class="col-1">
+          <input
+            class="btn btn-secondary btn-lg"
+            type="button"
+            value="3"
+            id="tiga"
+            onclick="layar(3)"
+          />
+        </div>
+        <div class="col-1">
+          <input
+            class="btn btn-dark btn-lg"
+            type="button"
+            value="+"
+            onclick="layar('+')"
+          />
+        </div>
+      </div>
+      <!--end kolom angka 1,2,3,+ -->
+
+      <!--start kolom angka 4,5,6,- -->
+      <div class="row pt-1 justify-content-center g-5">
+        <div class="col-1">
+          <input
+            class="btn btn-secondary btn-lg"
+            type="button"
+            value="4"
+            id="empat"
+            onclick="layar(4)"
+          />
+        </div>
+        <div class="col-1">
+          <input
+            class="btn btn-secondary btn-lg"
+            type="button"
+            value="5"
+            id="lima"
+            onclick="layar(5)"
+          />
+        </div>
+        <div class="col-1">
+          <input
+            class="btn btn-secondary btn-lg"
+            type="button"
+            value="6"
+            id="enam"
+            onclick="layar(6)"
+          />
+        </div>
+        <div class="col-1">
+          <input
+            class="btn btn-dark btn-lg"
+            type="button"
+            value="-"
+            onclick="layar('-')"
+          />
+        </div>
+      </div>
+      <!--end kolom angka 4,5,6,- -->
+
+      <!--start kolom angka 7,8,9,x -->
+      <div class="row pt-1 justify-content-center g-5">
+        <div class="col-1">
+          <input
+            class="btn btn-secondary btn-lg"
+            type="button"
+            value="7"
+            id="tujuh"
+            onclick="layar(7)"
+          />
+        </div>
+        <div class="col-1">
+          <input
+            class="btn btn-secondary btn-lg"
+            type="button"
+            value="8"
+            id="delapan"
+            onclick="layar(8)"
+          />
+        </div>
+        <div class="col-1">
+          <input
+            class="btn btn-secondary btn-lg"
+            type="button"
+            value="9"
+            id="sembilan"
+            onclick="layar(9)"
+          />
+        </div>
+        <div class="col-1">
+          <input
+            class="btn btn-dark btn-lg"
+            type="button"
+            value="x"
+            onclick="layar('*')"
+          />
+        </div>
+      </div>
+      <!--end kolom angka 7,8,9,x -->
+
+      <!--start kolom angka /,o,.,= -->
+      <div class="row pt-1 justify-content-center g-5">
+        <div class="col-1">
+          <input
+            class="btn btn-dark btn-lg"
+            type="button"
+            value="/"
+            onclick="layar('/')"
+          />
+        </div>
+        <div class="col-1">
+          <input
+            class="btn btn-secondary btn-lg"
+            type="button"
+            value="0"
+            id="nol"
+            onclick="layar(0)"
+          />
+        </div>
+        <div class="col-1">
+          <input
+            class="btn btn-dark btn-lg"
+            type="button"
+            value="."
+            onclick="layar('.')"
+          />
+        </div>
+        <div class="col-1">
+          <input
+            class="btn btn-primary btn-lg"
+            type="button"
+            value="="
+            onclick="hasil.value = eval(hasil.value)"
+          />
+        </div>
+      </div>
+    </div>
+
+    <!--end kolom angka /,o,.,= -->
+
+    <!-- start script JS -->
+    <script>
+      // Fungsi tombol clear
+      function clearScreen() {
+        document.getElementById("hasil").value = "";
+      }
+      // Fungsi menambilkan hasil ke layar
+      function layar(value) {
+        let res = document.getElementById("hasil");
+        if (res.value == "undefined") {
+          res.value = "";
+        }
+        res.value += value;
+      }
+    </script>
+    <!-- end script JS -->
+
+    <!-- Option 1: Bootstrap Bundle with Popper -->
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
+      crossorigin="anonymous"
+    ></script>
+  </body>
+</html>
