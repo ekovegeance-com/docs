@@ -60,6 +60,6 @@ export default {
   prevLinks: true,
   nextLinks: true,
   footer: true,
-  footerEditOnGitHubLink: true,
+  footerEditOnGitHubLink: false,
   footerText: <>MIT {new Date().getFullYear()} © ekovegeance.</>,
 }
