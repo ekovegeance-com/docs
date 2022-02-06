@@ -136,3 +136,4 @@
 | Nama Channel                | Topik                                                   | URL                                                |
 | --------------------------- | ------------------------------------------------------- | -------------------------------------------------- |
 | Palembang Digital Community | Workshop, Startup, Karir, Interview, Programming, UI/UX | [link](https://www.youtube.com/c/PalembangDigital) |
+| Bina Darma Cyber Army | Gathering, Cyber Security, Software, Multimedia,dll | [Discord](https://discord.gg/zyz5Pvp6ss) |
