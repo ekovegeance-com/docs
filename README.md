@@ -87,8 +87,6 @@ git pull
 ```
 
 
-> Note: modifications, changes, or alterations to this sourcecode is acceptable, however,any public releases utilizing this code must be approved by writen this tool ekovegeance
-
 
 
 Thanks to Contributors
