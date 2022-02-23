@@ -1,0 +1,15 @@
+/home/me/Program/mahasiswa/bin/Debug/net6.0/mahasiswa
+/home/me/Program/mahasiswa/bin/Debug/net6.0/mahasiswa.deps.json
+/home/me/Program/mahasiswa/bin/Debug/net6.0/mahasiswa.runtimeconfig.json
+/home/me/Program/mahasiswa/bin/Debug/net6.0/mahasiswa.dll
+/home/me/Program/mahasiswa/bin/Debug/net6.0/mahasiswa.pdb
+/home/me/Program/mahasiswa/obj/Debug/net6.0/mahasiswa.csproj.AssemblyReference.cache
+/home/me/Program/mahasiswa/obj/Debug/net6.0/mahasiswa.GeneratedMSBuildEditorConfig.editorconfig
+/home/me/Program/mahasiswa/obj/Debug/net6.0/mahasiswa.AssemblyInfoInputs.cache
+/home/me/Program/mahasiswa/obj/Debug/net6.0/mahasiswa.AssemblyInfo.cs
+/home/me/Program/mahasiswa/obj/Debug/net6.0/mahasiswa.csproj.CoreCompileInputs.cache
+/home/me/Program/mahasiswa/obj/Debug/net6.0/mahasiswa.dll
+/home/me/Program/mahasiswa/obj/Debug/net6.0/refint/mahasiswa.dll
+/home/me/Program/mahasiswa/obj/Debug/net6.0/mahasiswa.pdb
+/home/me/Program/mahasiswa/obj/Debug/net6.0/mahasiswa.genruntimeconfig.cache
+/home/me/Program/mahasiswa/obj/Debug/net6.0/ref/mahasiswa.dll
