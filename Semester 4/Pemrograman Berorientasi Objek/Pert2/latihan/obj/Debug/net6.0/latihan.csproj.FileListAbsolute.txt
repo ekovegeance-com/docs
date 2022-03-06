@@ -1,0 +1,15 @@
+/home/me/oop/latihan/bin/Debug/net6.0/latihan
+/home/me/oop/latihan/bin/Debug/net6.0/latihan.deps.json
+/home/me/oop/latihan/bin/Debug/net6.0/latihan.runtimeconfig.json
+/home/me/oop/latihan/bin/Debug/net6.0/latihan.dll
+/home/me/oop/latihan/bin/Debug/net6.0/latihan.pdb
+/home/me/oop/latihan/obj/Debug/net6.0/latihan.csproj.AssemblyReference.cache
+/home/me/oop/latihan/obj/Debug/net6.0/latihan.GeneratedMSBuildEditorConfig.editorconfig
+/home/me/oop/latihan/obj/Debug/net6.0/latihan.AssemblyInfoInputs.cache
+/home/me/oop/latihan/obj/Debug/net6.0/latihan.AssemblyInfo.cs
+/home/me/oop/latihan/obj/Debug/net6.0/latihan.csproj.CoreCompileInputs.cache
+/home/me/oop/latihan/obj/Debug/net6.0/latihan.dll
+/home/me/oop/latihan/obj/Debug/net6.0/refint/latihan.dll
+/home/me/oop/latihan/obj/Debug/net6.0/latihan.pdb
+/home/me/oop/latihan/obj/Debug/net6.0/latihan.genruntimeconfig.cache
+/home/me/oop/latihan/obj/Debug/net6.0/ref/latihan.dll
